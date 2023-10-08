@@ -1,4 +1,4 @@
-package com.iudigital.Gestion_errores.entity;
+package com.iudigital.GestionErrores.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

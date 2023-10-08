@@ -1,4 +1,4 @@
-package com.iudigital.Gestion_errores;
+package com.iudigital.GestionErrores;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
